@@ -1,0 +1,18 @@
+body {
+  background-color: #1C1B19;
+  color: #FCE8C3;
+  font-family: sans-serif;
+  margin: 2% 10%;
+}
+h1 {
+  text-decoration: underline;
+}
+a {
+  color: #68A8E4;
+}
+a:visited {
+  color: #519F50;
+}
+a:hover {
+  color: #2C78BF;
+}
