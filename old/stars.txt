@@ -1,0 +1,10 @@
+https://github.com/lukasz-madon/awesome-remote-job
+https://github.com/google/lisp-koans
+https://github.com/mimecorg/vuido
+https://github.com/learnbyexample/Command-line-text-processing
+https://github.com/trekhleb/javascript-algorithms
+https://github.com/angrave/SystemProgramming
+https://github.com/latentflip/loupe
+
+https://github.com/phoe
+https://github.com/ireneuszgabrys
