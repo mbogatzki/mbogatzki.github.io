@@ -1,6 +1,4 @@
-# markbogatzki.github.io
-
-##JavaScript
+## JavaScript
 How to check usage of local storage
 ```
 var total = 0;for(var x in localStorage){total += ((localStorage[x].length * 2)/1024/1024); console.log(x+'='+((localStorage[x].length * 2)/1024/1024).toFixed(4)+' MB')}; console.log('Total:',total.toFixed(4)+' MB');
@@ -13,11 +11,8 @@ One-line saving data to file
 ```
 require('fs').writeFile('/Users/marek/Desktop/test.json',JSON.stringify(data),function(err){err ? console.log(err):console.log('saved');});
 ```
-Interesting links:
-[Closures](http://javascriptissexy.com/understand-javascript-closures-with-ease/)
-[Tricks and best practices](http://modernweb.com/2013/12/23/45-useful-javascript-tips-tricks-and-best-practices/vim2016-04-18)
 
-##Bash
+## Bash
 Create 7zip archive with 4GB size and password:
 ```
 7z a SOME_NAME.7z -v4000m SOURCE_TO_PACK/ -p=SOME_PASSWORD
@@ -158,7 +153,7 @@ Ctrl + t
 Interesting links:
 [Syntax keyboard](http://ss64.com/bash/syntax-keyboard.html)
 
-##Git
+## Git
 Show status of the file before the last 4 commits:
 ```
 git show HEAD~4:src/main.js
@@ -205,10 +200,8 @@ Interactive adding files:
 ```
 git add -i
 ```
-Interesting links:
-[Hot tips](http://wesbos.com/git-hot-tips)
 
-##Vim
+## Vim
 Move text from vim register to tmux pane and execute:
 ```
 call system("tmux load-buffer -", @r)
@@ -341,7 +334,3 @@ Alternative for using Esc:
 ```
 CTRL-C
 ```
-Interesting links:
-[Why using Vim](http://www.viemu.com/a-why-vi-vim.html)
-[Talking with Vim](http://stackoverflow.com/a/1220118)
-
