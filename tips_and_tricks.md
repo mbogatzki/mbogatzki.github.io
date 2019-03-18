@@ -11,6 +11,10 @@ One-line saving data to file
 ```
 require('fs').writeFile('/Users/marek/Desktop/test.json',JSON.stringify(data),function(err){err ? console.log(err):console.log('saved');});
 ```
+Reload app in pm2 with new enviornment variable value:
+```
+NODE_LOG='' pm2 reload TEST-APP --update-env
+```
 
 ## Bash
 Create 7zip archive with 4GB size and password:
@@ -150,6 +154,21 @@ Change two letters in command:
 ```
 Ctrl + t
 ```
+Run simple server:
+```
+python -m SimpleHTTPServer 8080
+```
+
+Restart rabbitmq and redis:
+```
+brew services restart rabbitmq
+brew services restart redis
+```
+Show which process is running on specific port:
+```
+lsof -i :15672
+```
+
 Interesting links:
 [Syntax keyboard](http://ss64.com/bash/syntax-keyboard.html)
 
@@ -200,8 +219,36 @@ Interactive adding files:
 ```
 git add -i
 ```
+Remove all feature branches:
+```
+git branch -D `git branch | grep -E 'feature*'`
+```
+Prune branches (dry run):
+```
+git remote prune origin --dry-run
+```
+Show number of commits per author:
+```
+git shortlog -s -n
+```
 
 ## Vim
+Solve problem with modifiable off message:
+```
+:autocmd BufWinEnter * setlocal modifiable
+```
+Replace in all files in agrs:
+```
+:argdo %s/pattern/replace/ge | update
+```
+Run macro in 'a' register for line which match pattern:
+```
+:g/pattern/norm! @a
+```
+Change rem to px:
+```
+:%s/rem(\([0-9]*\))/\1px/gc
+```
 Move text from vim register to tmux pane and execute:
 ```
 call system("tmux load-buffer -", @r)
@@ -329,6 +376,7 @@ Insert result of terminal command to active buffer:
 Alignment to columns:
 ```
 :!column -t
+:%!column -t -s ','
 ```
 Alternative for using Esc:
 ```
