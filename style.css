@@ -13,11 +13,14 @@ a:hover{color:#2c78bf}
 h1{line-height:1.2; font-size:18px;}
 td{padding: 2px 5px}
 code {
-background-color: grey;
+  background-color: grey;
   color: #000;
+  display: inline-block;
   font-size: 14px;
   max-width: 650px;
   padding: 10px;
-  display: inline-block;
-  white-space: wrap;
+  overflow-x: auto;
+}
+h1 strong {
+  background-color: red;
 }
