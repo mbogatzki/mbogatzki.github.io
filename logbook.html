@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Private page. Marek Bogatzki">
+    <title>Marek Bogatzki</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <script>
+    function main() {
+        fetch('https://raw.githubusercontent.com/mbogatzki/mbogatzki.github.io/master/logbook.md')
+            .then((response)=> response.text())
+            .then(text => {
+                    const converter = new showdown.Converter();
+                    document.body.innerHTML += converter.makeHtml(text);
+            });
+    }
+
+    function errorHandler() {
+        console.log('Error')
+    }
+    </script>
+    <script onload="main()" onerror="errorHandler()" async src="https://cdnjs.cloudflare.com/ajax/libs/showdown/1.9.0/showdown.min.js"  ></script>
+  </body>
+</html>
