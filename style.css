@@ -10,7 +10,7 @@ body {
 a{color:#68a8e4}
 a:visited{color:#519f50}
 a:hover{color:#2c78bf}
-h1{line-height:1.2}
+h1{line-height:1.2; font-size:18px;}
 td{padding: 2px 5px}
 code {
 background-color: grey;
@@ -20,5 +20,4 @@ background-color: grey;
   padding: 10px;
   display: inline-block;
   white-space: wrap;
-}d
 }
