@@ -8,13 +8,18 @@
     <link rel="stylesheet" href="style.css">
   </head>
   <body>
+    <div id="main"></div>
+    <p><a href="index.html">Back to index</a></p>
     <script>
     function main() {
-        fetch('https://raw.githubusercontent.com/mbogatzki/mbogatzki.github.io/master/logbook.md')
+	const [, file] = location.search.match(/page=([A-z0-9_.\/]*)&*/) ?? [];
+	//const url = 'https://raw.githubusercontent.com/mbogatzki/mbogatzki.github.io/master/';
+	const url = 'http://localhost:8000/';
+        fetch(`${url}${file ?? 'index.md'}`)
             .then((response)=> response.text())
             .then(text => {
-                    const converter = new showdown.Converter();
-                    document.body.innerHTML += converter.makeHtml(text);
+                    const converter = new showdown.Converter({ tables: true, tasklists: true, strikethrough: true });
+                    document.getElementById('main').innerHTML += converter.makeHtml(text);
             });
     }
 

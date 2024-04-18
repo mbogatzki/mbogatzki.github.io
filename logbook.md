@@ -1,3 +1,6 @@
+Logbook
+-------
+
 # **bash** Send POST with JSON data:
 ```
 curl -X POST --data @filename.json -H "Content-Type: application/json" http://localhost:8080/
@@ -676,4 +679,9 @@ rsync -avh -e 'ssh -p 8888' user@host:/home/test/ /home/marekk/test
 # **linux** ssh tunnel example
 ```
 ssh -R \*:80:localhost:1080 -N user@hostname
+```
+
+# **linux** Python 3 Simple HTTP server
+```
+python3 -m http.server
 ```

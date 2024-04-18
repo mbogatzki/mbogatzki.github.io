@@ -15,13 +15,20 @@
       Contakt: marekbogatzki at gmail dot com<br>
       GitHub: <a href="https://github.com/mbogatzki">github.com/mbogatzki</a>
     </span>
-    <ul>
-      <li><a href="running.html">Personal records</a></li>
-      <li><a href="bookmarks.html">Bookmarks</a></li>
-      <li><a href="places.html">Places to visit</a></li>
-      <li><a href="escaperooms.html">Escape rooms</a></li>
-      <li><a href="blog/000001.html">Blog</a></li>
-      <li><a href="logbook.html">Log book</a></li>
-    </ul>
+    <script>
+    function main() {
+        fetch('http://localhost:8000/index.md')
+            .then((response)=> response.text())
+            .then(text => {
+                    const converter = new showdown.Converter();
+                    document.body.innerHTML += converter.makeHtml(text);
+            });
+    }
+
+    function errorHandler() {
+        console.log('Error')
+    }
+    </script>
+    <script onload="main()" onerror="errorHandler()" async src="https://cdnjs.cloudflare.com/ajax/libs/showdown/1.9.0/showdown.min.js"  ></script>
   </body>
 </html>
