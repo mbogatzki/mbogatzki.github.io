@@ -13,8 +13,7 @@
     <script>
     function main() {
 	const [, file] = location.search.match(/page=([A-z0-9_.\/]*)&*/) ?? [];
-	//const url = 'https://raw.githubusercontent.com/mbogatzki/mbogatzki.github.io/master/';
-	const url = 'http://localhost:8000/';
+	const url = 'https://raw.githubusercontent.com/mbogatzki/mbogatzki.github.io/master/';
         fetch(`${url}${file ?? 'index.md'}`)
             .then((response)=> response.text())
             .then(text => {

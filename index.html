@@ -17,7 +17,7 @@
     </span>
     <script>
     function main() {
-        fetch('http://localhost:8000/index.md')
+        fetch('https://raw.githubusercontent.com/mbogatzki/mbogatzki.github.io/master/index.md')
             .then((response)=> response.text())
             .then(text => {
                     const converter = new showdown.Converter();
