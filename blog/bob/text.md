@@ -1,5 +1,6 @@
 Preppers - 07.04.2024
 ---------------------
+Najważniejsze: woda, jedzenie, schronienie i energia
 
 Mój B.O.B.
 ==========
@@ -83,3 +84,28 @@ Samochód
 - [ ] woda
 - [ ] ładowarka
 - [ ] łańcuchy
+
+
+Kupić
+- [ ] Android
+- [ ] Dynamo do roweru
+- [ ] Spirytus ratyfikowany 
+- [ ] Mata samopompująca
+- [ ] Plandeka
+- [ ] Cb radio
+- [ ] Papier toaletowy na zapas
+- [ ] Chlor
+- [ ] Filtr do wody
+- [ ] Kabel uniwersalny 
+- [ ] Woda 5l
+- [ ] Tabletki rozkurczowe
+- [ ] Stoperan
+- [ ] Przeciwbólowe
+- [ ] Plaster na rolce
+- [ ] Rękawiczki
+- [ ] Antybiotyk penicylin 
+- [ ] Panel solarny
+- [ ] Kabel uniwersalny 
+- [ ] Śpiwór
+- [ ] Arafatka
+

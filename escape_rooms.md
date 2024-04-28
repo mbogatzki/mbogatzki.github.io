@@ -14,3 +14,4 @@ Escape rooms
 - Morderstwo w Orient Expressie  - LOFTescape
 - Fabryka Czekolady - LOFTescape
 - Ale sztuka! - LOFTescape
+- Seria niefortunnych zagadek - Cinema Escape

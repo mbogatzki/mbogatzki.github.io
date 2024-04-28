@@ -685,3 +685,8 @@ ssh -R \*:80:localhost:1080 -N user@hostname
 ```
 python3 -m http.server
 ```
+
+# **youtube** Download playlist using yt-dlp from docker
+```
+docker run --rm -v "$(pwd):/downloads:rw" -it jauderho/yt-dlp:latest "https://www.youtube.com/playlist?list=PLeabOFsFccYCkD9ZUsoI0OC951HNZ0e90"
+```
