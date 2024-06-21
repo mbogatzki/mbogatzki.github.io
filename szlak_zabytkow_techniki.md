@@ -3,7 +3,7 @@ Szlak Zabytków Techniki
 - Bielsko-Biała
     - Stara Fabryka
 - Bytom
-    - Górnośląskie Koleje Wąskotorowe
+    - ~~Górnośląskie Koleje Wąskotorowe~~
 - Chorzów
     - ~~Szyb Prezydent, Kompleks Sztygarka~~
     - ~~Muzeum Hutnictwa~~
@@ -31,7 +31,7 @@ Szlak Zabytków Techniki
     - ~~Osiedle Nikiszowiec~~
     - Galeria Szyb Wilson
     - Muzeum Hutnictwa Cynku Walcownia
-    - Muzeum Śląskie
+    - ~~Muzeum Śląskie~~
     - Fabryka Porcelany
 - Łaziska Górne
     - Muzeum Energetyki
@@ -40,10 +40,10 @@ Szlak Zabytków Techniki
 - Pszczyna
     - Muzeum Prasy Śląskiej
 -  Radzionków
-    - Muzeum Chleba, Szkoły i Ciekawych rzeczy
+    - ~~Muzeum Chleba, Szkoły i Ciekawych rzeczy~~
 - Ruda Śląska
-    - Stacja Biblioteka
-    - Kolonia Robotnicza Ficinus
+    - ~~Stacja Biblioteka~~
+    - ~~Kolonia Robotnicza Ficinus~~
 - Rudy
     - Kolej Wąskotorowa
 - Rybnik
@@ -57,7 +57,7 @@ Szlak Zabytków Techniki
     - ~~Zabytkowa Kopalnia Srebra~~
 - Tychy
     - Browar Obywatelski
-    - Muzeum Tyskich Browarów Książęcych
+    - ~~Muzeum Tyskich Browarów Książęcych~~
 - Ustroń
     - Muzeum Ustrońskie
 - Zabrze

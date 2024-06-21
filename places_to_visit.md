@@ -3,7 +3,7 @@ Places to visit
 
 Poland
 ======
-1. Browar w Tychach
+1. ~~Browar w Tychach~~
 1. Czorsztyn (bicycle road)
 1. Zamek Lubowelski
 1. ~~La cantina~~
@@ -21,7 +21,7 @@ World
 1. Austria - Schafberg
 1. Austria - Seisenbergklamm
 1. Chorwacja - Plitvice National Park
-1. Czechy - Adrspach Teplice - skalne miasto
+1. ~~Czechy - Adrspach Teplice - skalne miasto~~
 1. Czechy - Czeski Krumlov
 1. Czechy - Kaplica Czaszek w Kutnej Horze
 1. Czechy - Słowacki raj Suchą Bela i Przełom Hrnadu
