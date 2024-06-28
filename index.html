@@ -5,30 +5,39 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Private page. Marek Bogatzki">
     <title>Marek Bogatzki</title>
-    <link rel="stylesheet" href="style.css">
+    <style>
+      body {
+        background-color:#eeeeee;
+        color:#444;
+        font: 18px sans-serif;
+        line-height:1.6;
+        margin:40px auto;
+        max-width:650px;
+        padding:0 10px;
+      }
+      h1,h2,h3 { line-height:1.2; }
+      h2 { font-size: 20px; }
+      @media (prefers-color-scheme: dark){
+        body {
+          background-color:#1c1b19;
+          color:#ddd;
+        }
+        a:link { color: #6495ed; }
+        a:visited { color: #9370db; }
+      }
+      @media print{
+        body { max-width:none; }
+      }
+    </style>
   </head>
+
   <body>
     <h1>Marek Bogatzki</h1>
-    
-    <span>
-      Software engineer<br>
-      Contakt: marekbogatzki at gmail dot com<br>
-      GitHub: <a href="https://github.com/mbogatzki">github.com/mbogatzki</a>
-    </span>
-    <script>
-    function main() {
-        fetch('https://raw.githubusercontent.com/mbogatzki/mbogatzki.github.io/master/index.md')
-            .then((response)=> response.text())
-            .then(text => {
-                    const converter = new showdown.Converter();
-                    document.body.innerHTML += converter.makeHtml(text);
-            });
-    }
-
-    function errorHandler() {
-        console.log('Error')
-    }
-    </script>
-    <script onload="main()" onerror="errorHandler()" async src="https://cdnjs.cloudflare.com/ajax/libs/showdown/1.9.0/showdown.min.js"  ></script>
+    <h2>Software engineer</h2>
+    <p>Contact: marekbogatzki at gmail dot com</p>
+    <ul>
+      <li><a href="https://github.com/mbogatzki">GitHub Profile</a></li>
+      <li><a href="content.html">Blog</a></li>
+  </ul>
   </body>
 </html>
