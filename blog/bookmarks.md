@@ -16,6 +16,7 @@ Bookmarks
 - [Greek God workout](https://darebee.com/workouts/greek-god-workout.html)
 - [Hack a day](https://hackaday.com)
 - [Hacker News](https://news.ycombinator.com/)
+- [Irek](http://irek.gabr.pl/)
 - [Jakub Mielczarek](https://jakubmielczarek.com/)
 - [JavaScript Hacks and Creative Coding](http://aem1k.com)
 - [Kopalnia wiedzy](https://kopalniawiedzy.pl/)

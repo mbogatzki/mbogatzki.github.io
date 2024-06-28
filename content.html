@@ -18,6 +18,10 @@
       h1,h2,h3 { line-height:1.2 }
       h2 { font-size: 20px }
       td { padding: 2px 5px }
+      table, th, td {
+        border: 1px solid;
+        border-collapse: collapse;
+      } 
       code {
         background-color: #bdbdbd;
         border: 2px solid #8a8a8a;
@@ -27,9 +31,6 @@
         max-width: 650px;
         padding: 10px;
         overflow-x: auto;
-      }
-      h1 strong {
-        background-color: red;
       }
       @media (prefers-color-scheme: dark){
         body {
@@ -45,9 +46,7 @@
     </style>
   </head>
   <body>
-    <p><a href="index.html">Back to main page</a></p>
     <div id="main"></div>
-    <p><a href="content.html">List of content</a></p>
     <script>
     function main() {
       const [, file] = location.search.match(/page=([A-z0-9_.\/]*)&*/) ?? [];
@@ -57,6 +56,11 @@
         .then(text => {
           const converter = new showdown.Converter({ tables: true, tasklists: true, strikethrough: true });
           document.getElementById('main').innerHTML += converter.makeHtml(text);
+          if (file) {
+            document.getElementById('main').innerHTML += '<p><a href="content.html">Back to the list of content</a></p>';
+          } else {
+            document.getElementById('main').innerHTML += '<p><a href="index.html">Back to the main page</a></p>';
+          }
         });
     }
     </script>

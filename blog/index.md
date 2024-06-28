@@ -6,7 +6,3 @@ Content
 - [Places to visit](content.html?page=places_to_visit.md)
 - [Bookmarks](content.html?page=bookmarks.md)
 - [Szlak Zabytków Techniki](content.html?page=szlak_zabytkow_techniki.md)
-
-
-
-[Back to the main page](index.html)
