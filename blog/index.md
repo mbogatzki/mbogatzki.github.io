@@ -7,3 +7,6 @@ Content
 - [Bookmarks](content.html?page=bookmarks.md)
 - [Szlak Zabytków Techniki](content.html?page=szlak_zabytkow_techniki.md)
 
+
+
+[Back to the main page](index.html)
