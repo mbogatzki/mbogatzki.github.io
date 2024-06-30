@@ -7,7 +7,7 @@ Poland
 1. Czorsztyn (bicycle road)
 1. Zamek Lubowelski
 1. ~~La cantina~~
-1. Pałac w Siemianowicach Śląskich
+1. ~~Pałac w Siemianowicach Śląskich~~
 1. Sopotnia Wielka (dark sky)
 1. Piwnica Świdnicka Wrocław
 1. Trasa kolejowa Jelenia Góra – Szklarska Poręba

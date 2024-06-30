@@ -39,7 +39,7 @@ Szlak Zabytków Techniki
     - Centralne Muzeum Pożarnictwa
 - Pszczyna
     - Muzeum Prasy Śląskiej
--  Radzionków
+- Radzionków
     - ~~Muzeum Chleba, Szkoły i Ciekawych rzeczy~~
 - Ruda Śląska
     - ~~Stacja Biblioteka~~
@@ -49,7 +49,7 @@ Szlak Zabytków Techniki
 - Rybnik
     - Zabytkowa Kopalnia Ignacy
 - Siemianowice Śląskie
-    - Park Tradycji
+    - ~~Park Tradycji~~
 - Świętochłowice
     - ~~Wieże KWK Polska~~
 - Tarnowskie Góry
