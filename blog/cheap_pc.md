@@ -1,5 +1,6 @@
 My dad computer
----------------
+===============
+
 Problems:
 - old and low quality laptop Lenovo IdeaPad 300
 - dead battery
@@ -31,10 +32,12 @@ The Hackintosh:
 
 Laptop:
 - replace keyboard and touchpad connector based on guides from YouTube
-- apply fix for touchpad on Linux - https://askubuntu.com/questions/1049787/lenovo-ideapad-330-touchpad-not-working
+- apply fix for [touchpad on Linux](https://askubuntu.com/questions/1049787/lenovo-ideapad-330-touchpad-not-working)
 
-Monitor for a PC
+Monitor for a PC:
 - the monitor was choosen and bought by my dad
 - first was a TV LCD (beacuse it has speakers), but soon it broke
 - there was one fix attempt, by replacing the electrolit capicitors (31,99zł), but no result
 - second was a Phillips 24" LED FHD monitor with speakers and camera (109zł) and it works, but sound wasn't sent by HDMI, so we had to buy mini-jack cable (19,89zł)
+
+Last update: 5.07.2024

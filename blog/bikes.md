@@ -1,6 +1,8 @@
 Bikes
------
+=====
+
 Shopping list:
+--------------
 - OLX RockShox Tora 318 (air) - 221zł
 - OLX RST 460 - 74,95zł (sell in the same price)
 - OLX Korba 8/9s Shimano 3 blaty - 110zł
@@ -37,12 +39,13 @@ Shopping list:
 - Allegro 1.03.2022 - wkłąd supportu Prox BSA-80 119mm + chwyty Prox GP-80 - 49,39zł
 
 My current bikes:
+-----------------
 - custom MTB Merida (in use)
 - future gravel Mighty (frame and wheels only)
 
 MTB Merida
 ----------
-Parts: 
+Parts:
 - Merida Dakar 690 - ~200zł
 - RockShox Tora 318 (air) - 221zł
 - old wheels ???zł
@@ -85,3 +88,6 @@ Gravel Plans:
 
 Useful links:
 - [bike fitting](https://www.youtube.com/watch?v=zMcUjud7tU8)
+
+
+Last update: 5.07.2024

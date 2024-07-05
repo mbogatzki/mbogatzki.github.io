@@ -1,5 +1,8 @@
 My girlfriend's car - Seat Ibiza III (6L)
------------------------------------------
+=========================================
+
+Shopping list:
+--------------
 - OLX silnik wycieraczki - 65,59zł
 - Allegro 3.02.2023 - Interfejs KKL (blue) - 40zł
 - Allegro 5.02.2023 - Dywaniki - 86,60zł
@@ -32,9 +35,13 @@ My girlfriend's car - Seat Ibiza III (6L)
 Summary: 2272,90zł
 
 To do:
-- fix heated seat - http://vwgolfr32.co.uk/fitting-guides/heated-seat-element-guide.htm
+------
 - replace stop switch
 - buy engine cober 6Q0825237P
 - buy chassis cover: 6Q0825201G (6Q0825201E) i 6Q0825202M
 - fix rust, paint colour: LS5T
-- replace clutch - https://www.youtube.com/watch?v=fUIyiws2gSA
+- [fix heated seat](http://vwgolfr32.co.uk/fitting-guides/heated-seat-element-guide.htm)
+- [replace clutch](https://www.youtube.com/watch?v=fUIyiws2gSA)
+- [Car repair manuals for everyone](https://charm.li)
+
+Last update: 5.07.2024
