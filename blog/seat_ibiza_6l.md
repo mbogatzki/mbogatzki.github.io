@@ -32,6 +32,7 @@ Shopping list:
 - Allegro 24.06.2024 - zaślepka lampy prawy przód 6L0941608 - 65zł
 - OLX 10.04.2024 - felgi aluminiowe 15" ET38 5x110 - 430zł
 - OLX 20.03.2024 - lampa tył prawa - 94zł
+
 Summary: 2272,90zł
 
 To do:

@@ -64,6 +64,7 @@ Parts:
 - lamki przód + tył ???zł
 - sakwa podsiodłowa  ???zł
 - Shimano Acera RD-T3000 9rz - 99zł
+
 Summary: ~1495,72zł
 
 TODO:

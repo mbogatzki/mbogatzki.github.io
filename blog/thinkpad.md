@@ -13,6 +13,7 @@ X200s
 - Allegro 14.04.2023 - second new battery - 59,75zł
 - Allegro 17.10.2022 - docking station - 24,98zł
 - Allegro 24.12.2022 - VGA -> HDMI adapter - 40zł
+
 Summary: 792,89zł
 
 Currently this laptop is my spare latop but for sometime it was my main computer.
@@ -28,6 +29,7 @@ T420
   - Dead battery
   - No disk
   - Broken touchpad and left speaker cover
+
 Summary: 89zł
 
 Plans:

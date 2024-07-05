@@ -22,6 +22,7 @@ Shopping list:
 - Media Expert - 1TB SSD Goodram CX400 - 269,99zł
 - Allegro 18.10.2023 - Keyboard Lenovo G50 500-15ACZ - 10,49zł
 - Allegro 18.10.2023 - Touchpad connector  Lenovo IdeaPad 300-15ISK - 19,99zł
+
 Summary: 882,65zł
 
 The Hackintosh:
