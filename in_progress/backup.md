@@ -4,9 +4,9 @@ Zakupy:
 
 TODO:
 -----
-- kupić jeszcze jeden dysk 1TB
-- przynieść obudowy z komórki
-- zainstalować Own lub Next Cloud
+- sprawdzić w notesie rozwiązanie
+- 3d print case (2 disks and rpi)
+- borg + rclone
 - ustawić RAID na dyski
 - skonfigurować Wake-On-Lan WiFi
 - Proton VPN
