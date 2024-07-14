@@ -45,4 +45,9 @@ To do:
 - [replace clutch](https://www.youtube.com/watch?v=fUIyiws2gSA)
 - [Car repair manuals for everyone](https://charm.li)
 
-Last update: 5.07.2024
+Others:
+-------
+- https://allegro.pl/oferta/szpilka-kola-febi-bilstein-46632-12341981943
+- https://allegro.pl/oferta/4x-seat-90mm-logo-aluminiowe-naklejki-nalepki-na-kolpak-dekiel-alu-felgi-90-12785819252
+
+Last update: 14.07.2024
