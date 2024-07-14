@@ -57,6 +57,7 @@ Youtube channels
 - [Animagraffs](https://www.youtube.com/@animagraffs)
 - [Ben Eater](https://www.youtube.com/@BenEater)
 - [Bushcraftowy](https://www.youtube.com/@Bushcraftowy)
+- [ciekawehistorie](https://www.youtube.com/@ciekawehistorietv)
 - [CodeAesthetic](https://www.youtube.com/@CodeAesthetic)
 - [Computerphile](https://www.youtube.com/@Computerphile)
 - [Copernicus Center](https://www.youtube.com/@CopernicusCenter)
