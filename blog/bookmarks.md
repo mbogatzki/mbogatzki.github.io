@@ -6,6 +6,7 @@ Bookmarks
 - [Antarctica blog](https://brr.fyi)
 - [Asymmetric Numeral Systems](https://pl.wikipedia.org/wiki/Asymmetric_Numeral_Systems)
 - [Basic C](https://david.rothlis.net/emacs/basic_c.html)
+- [Calculus Made Easy](https://calculusmadeeasy.org/)
 - [Czy jest Eldorado](https://czyjesteldorado.pl)
 - [DIY Book Scanner](https://www.diybookscanner.org)
 - [Dive into Systems](https://diveintosystems.org/singlepage/)
