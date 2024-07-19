@@ -22,6 +22,7 @@ Bookmarks
 - [JavaScript Hacks and Creative Coding](http://aem1k.com)
 - [Keepass tutorial](https://niebezpiecznik.pl/post/keepass-jak-zaczac-swoja-przygode-z-managerem-hasel/)
 - [Kopalnia wiedzy](https://kopalniawiedzy.pl/)
+- [lcamtuf’s thing](https://lcamtuf.substack.com/)
 - [Matering OpenSCAD](https://mastering-openscad.eu/buch/)
 - [Nie od razu naukę zbudowano](https://kierul.wordpress.com/)
 - [Niebezpiecznik](https://niebezpiecznik.pl)
