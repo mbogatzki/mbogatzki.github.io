@@ -690,3 +690,8 @@ python3 -m http.server
 ```
 docker run --rm -v "$(pwd):/downloads:rw" -it jauderho/yt-dlp:latest "https://www.youtube.com/playlist?list=PLeabOFsFccYCkD9ZUsoI0OC951HNZ0e90"
 ```
+
+[linux] Rotate screen
+```
+xrandr --output LVDS1 --rotate right|left|normal
+```
