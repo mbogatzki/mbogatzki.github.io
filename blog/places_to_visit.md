@@ -4,7 +4,7 @@ Places to visit
 Poland
 ======
 1. ~~Browar w Tychach~~
-1. Czorsztyn (bicycle road)
+1. ~~Czorsztyn (bicycle road)~~
 1. Zamek Lubowelski
 1. ~~La cantina~~
 1. ~~Pałac w Siemianowicach Śląskich~~
