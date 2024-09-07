@@ -10,6 +10,8 @@ Poland
 1. ~~Pałac w Siemianowicach Śląskich~~
 1. Sopotnia Wielka (dark sky)
 1. Piwnica Świdnicka Wrocław
+1. Muzeum Elektroniki Chorzów
+1. Muzeum Motoryzacji Wena w Oławie
 1. Trasa kolejowa Jelenia Góra – Szklarska Poręba
 1. [Rowerowy szlak orlich gniazd](https://www.orlegniazda.pl/route/12398/szlak-rowerowy-orlich-gniazd)
 1. [Szczawnica Park](https://szczawnica-park.pl)
