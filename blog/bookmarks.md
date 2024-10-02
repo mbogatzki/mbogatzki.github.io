@@ -22,14 +22,18 @@ Bookmarks
 - [JavaScript Hacks and Creative Coding](http://aem1k.com)
 - [Keepass tutorial](https://niebezpiecznik.pl/post/keepass-jak-zaczac-swoja-przygode-z-managerem-hasel/)
 - [Kopalnia wiedzy](https://kopalniawiedzy.pl/)
-- [lcamtuf’s thing](https://lcamtuf.substack.com/)
 - [Matering OpenSCAD](https://mastering-openscad.eu/buch/)
+- [Maxwell's equations of software](https://www.righto.com/2008/07/maxwells-equations-of-software-examined.html)
 - [Nie od razu naukę zbudowano](https://kierul.wordpress.com/)
 - [Niebezpiecznik](https://niebezpiecznik.pl)
 - [Paged Out Magazine](https://pagedout.institute/)
 - [Paul Graham](https://paulgraham.com/)
+- [Pola](https://www.pola-app.pl/)
 - [Portfel-programisty](https://projektpogodzinach.pl/inwestowanie-po-godzinach-portfel-programisty-czyli-w-co-inwestowac-i-jak-kontrolowac-finanse/)
 - [Quantuminterpreter](https://www.stylewarning.com/posts/quantum-interpreter/)
+- [Radio USDX](https://github.com/threeme3/usdx)
+- [RadioShack Catalogs](https://www.radioshackcatalogs.com/)
+- [Reverse Engineering For Everyone](https://0xinfection.github.io/reversing/pages/part-8-bytes-words-double-words-etc.html)
 - [Sekurak](https://sekurak.pl)
 - [Solar powered webpage](https://solar.lowtechmagazine.com/)
 - [TV Streams links on Reedit](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index/)
@@ -39,6 +43,7 @@ Bookmarks
 - [Z3S](https://zaufanatrzeciastrona.pl/)
 - [Zapytaj fizyka](https://zapytajfizyka.fuw.edu.pl)
 - [Zerion](https://zerion.cc)
+- [lcamtuf’s thing](https://lcamtuf.substack.com/)
 
 GitHub repositories
 -------------------

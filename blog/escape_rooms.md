@@ -16,3 +16,5 @@ Escape rooms
 - Ale sztuka! - LOFTescape
 - Seria niefortunnych zagadek - Cinema Escape
 - El Profesor: Napad Prawie Doskonały - LetMeOut
+- Magia Hogwartu - Escape Room Rzeszów
+- Czarna Perła - Escape Room Rzeszów

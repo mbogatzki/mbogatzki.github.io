@@ -9,6 +9,8 @@ Poland
 1. ~~La cantina~~
 1. ~~Pałac w Siemianowicach Śląskich~~
 1. Sopotnia Wielka (dark sky)
+1. Parostacja Resto Bar
+1. Worek Raczański
 1. Piwnica Świdnicka Wrocław
 1. Muzeum Elektroniki Chorzów
 1. Muzeum Motoryzacji Wena w Oławie
@@ -60,3 +62,8 @@ World
 1. Włochy - Portofino
 1. Włochy - Saturnia thermal baths
 1. Włochy - Hot Springs in Tuscany
+
+My trees
+========
+1. [Tree #1](https://maps.google.com/maps?q=50.272780610295264%2C18.91799485312674)
+1. [Tree #2](https://maps.google.com/maps?q=50.27361490302744%2C18.91790600495312)
