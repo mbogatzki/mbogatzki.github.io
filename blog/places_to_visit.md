@@ -17,6 +17,10 @@ Poland
 1. Trasa kolejowa Jelenia Góra – Szklarska Poręba
 1. [Rowerowy szlak orlich gniazd](https://www.orlegniazda.pl/route/12398/szlak-rowerowy-orlich-gniazd)
 1. [Szczawnica Park](https://szczawnica-park.pl)
+1. [szlak wokoł Tatr 1](https://www.trasadlabobasa.pl/tab/trasa/szlak_wokol_tatr_latwa_i_widokowa_trasa_rowerowa/330)
+1. [szlak wokoł Tatr 2](https://velomapa.pl/szlaki/szlak-wokol-tatr#map=8.69/49.2395/19.8732)
+1. [szlak wokoł Tatr 3](https://101countriesbefore50.com/polska/rowerowy-szlak-wokol-tatr/)
+
 
 World
 =====
