@@ -50,17 +50,32 @@ Bookmarks
 
 GitHub repositories
 -------------------
+- [Basic Scheme Commands](https://gist.github.com/egregius313/e20246fbdb67861a05edaf7dbd0315d6)
 - [Command-line text processing](https://github.com/learnbyexample/Command-line-text-processing)
 - [Everything I Know About The Fast Inverse Square Root Algorithm](https://github.com/francisrstokes/githublog/blob/main/2024%2F5%2F29%2Ffast-inverse-sqrt.md)
+- [Graham Essays Collection](https://github.com/ofou/graham-essays)
+- [Hello system](https://github.com/helloSystem/hello)
+- [Introduction to Bash Scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting)
 - [JavaScripts algorithms](https://github.com/trekhleb/javascript-algorithms)
 - [Learn gnuawk](https://github.com/learnbyexample/learn_gnuawk)
 - [Lisp koans](https://github.com/google/lisp-koans)
 - [Little Lisp in JS](https://github.com/maryrosecook/littlelisp/blob/master/littlelisp.js)
 - [Mastering Bitcoin: Programming the Open Blockchain](https://github.com/bitcoinbook/bitcoinbook/blob/develop/BOOK.md)
+- [Mathematics books](https://github.com/manjunath5496/Mathematics-Books?tab=readme-ov-file)
+- [Moonfly theme](https://github.com/bluz71/vim-moonfly-colors)
+- [Pure Bash bible](https://github.com/dylanaraps/pure-bash-bible)
 - [SHA 256 animation](https://github.com/in3rsha/sha256-animation)
+- [Sector Lisp](https://github.com/jart/sectorlisp)
 - [Showdown](https://github.com/showdownjs/showdown)
+- [Sigrok - signal analysis software](https://github.com/sigrokproject)
+- [Simple Moblie Tools](https://github.com/SimpleMobileTools)
+- [Single-file public-domain/open source libraries with minimal dependencies](https://github.com/nothings/single_file_libs?tab=readme-ov-file)
 - [Srcery theme](https://github.com/srcery-colors/srcery-terminal)
 - [System Programming](https://github.com/angrave/SystemProgramming)
+- [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
+- [The SHA-256 Project](https://github.com/oconnor663/sha256_project)
+- [Unix Text Processing](https://github.com/larrykollar/Unix-Text-Processing)
+- [Woo - fast server in Common Lisp](https://github.com/fukamachi/woo)
 
 Youtube channels
 ----------------
