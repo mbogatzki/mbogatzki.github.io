@@ -1,5 +1,15 @@
 Logbook
 -------
+[qemu] How to install QEMU on Linux Mint
+```
+apt install bridge-utils virt-manager
+shared: Enable shared memory, install WinFSP and virtio-win-guest-tools.exe, start service
+```
+
+[bash] Merge two pdf into one
+```
+qpdf --empty --pages *.pdf -- out.pdf
+```
 
 [bash] Send POST with JSON data:
 ```

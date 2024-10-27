@@ -18,3 +18,4 @@ Escape rooms
 1. El Profesor: Napad Prawie Doskonały - LetMeOut
 1. Magia Hogwartu - Escape Room Rzeszów
 1. Czarna Perła - Escape Room Rzeszów
+1. Noc w Muzeum - Strych
