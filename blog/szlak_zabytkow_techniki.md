@@ -13,7 +13,7 @@ Szlak Zabytków Techniki
 - Czeladź
     - Galeria Sztuki Współczesnej Elektrownia
 - Czerwionka-Leszczyny
-    - Familoki
+    - ~~Familoki~~
 - Częstochowa
     - Muzeum Górnictwa Rud Żelaza
     - Muzeum Historii Kolei
@@ -27,10 +27,10 @@ Szlak Zabytków Techniki
 - Karchowice
     - Stacja Wodociągowa Zawada
 - Katowice
-    - Osiedle Giszowiec
+    - ~~Osiedle Giszowiec~~
     - ~~Osiedle Nikiszowiec~~
-    - Galeria Szyb Wilson
-    - Muzeum Hutnictwa Cynku Walcownia
+    - ~~Galeria Szyb Wilson~~
+    - ~~Muzeum Hutnictwa Cynku Walcownia~~
     - ~~Muzeum Śląskie~~
     - Fabryka Porcelany
 - Łaziska Górne
